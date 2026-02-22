@@ -3,7 +3,7 @@
  * Plugin Name: WC Cybersource 3DS 2.x Lite
  * Description: Simple WooCommerce Cybersource REST gateway with 3DS 2.x enrollment/auth/challenge callbacks.
  * Version: 1.0.0
- * Author: আব্দুর রহিম
+ * Author: Abdur Rahim
  * Text Domain: wc-cybersource-3ds-lite
  */
 if (!defined('ABSPATH')) {
